@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addressbook-web-tests", "addressbook-web-tests\addressbook-web-tests.csproj", "{5A3CDF5F-9287-4D03-8263-BF763DC64501}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addressbook-web-tests-groups", "addressbook-web-tests-groups\addressbook-web-tests-groups.csproj", "{1516BD87-6242-474A-A1E6-76A78B77F64A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A3CDF5F-9287-4D03-8263-BF763DC64501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A3CDF5F-9287-4D03-8263-BF763DC64501}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A3CDF5F-9287-4D03-8263-BF763DC64501}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A3CDF5F-9287-4D03-8263-BF763DC64501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1516BD87-6242-474A-A1E6-76A78B77F64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1516BD87-6242-474A-A1E6-76A78B77F64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1516BD87-6242-474A-A1E6-76A78B77F64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1516BD87-6242-474A-A1E6-76A78B77F64A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {94F894EE-55C9-418B-9FE2-D168AF51D032}
+		SolutionGuid = {C0AA8967-5965-48A4-84BC-E39DFB7489F5}
 	EndGlobalSection
 EndGlobal
